@@ -1,6 +1,24 @@
 # Vacation Bookings Application
-I completed this project during my 5th semester at WGU as a part of the class, Back-end Programming D288.
+I completed this project during my 5th semester at WGU as a part of the class, Back-end Programming D288.<br>
 For the complete project requirements, please refer to the “Rubric.pdf” file. Additional project details can be found in these files: ERD.pdf and UML.jpg.
+
+For instructions on how to run this application, scroll to the bottom of this page.
+
+Here are some images of the vacation bookings application:
+
+![1](https://github.com/user-attachments/assets/906edd5c-0081-4c01-894b-51a85db7051c)
+
+![2](https://github.com/user-attachments/assets/a1e9b30c-2736-405b-8811-458270c4bd3d)
+
+![3](https://github.com/user-attachments/assets/836af858-d0d6-4c0c-805f-a0dc5435f7fb)
+
+![33](https://github.com/user-attachments/assets/58fa3bd7-c5a4-4468-adfd-bbdd39ffb00a)
+
+![44](https://github.com/user-attachments/assets/a1756661-a96b-4492-a960-da99695de801)
+
+![4](https://github.com/user-attachments/assets/8717e15c-b7e2-4277-9124-b8de72d2d406)
+
+![6](https://github.com/user-attachments/assets/dae42a01-db36-4a1c-9356-9e40614b94a5)
 
 Instructions on how to run this program:
 1.	Start the database in MySQL Workbench.
