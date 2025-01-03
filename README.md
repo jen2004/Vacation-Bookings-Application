@@ -15,10 +15,10 @@ Instructions on how to start the database:
 5.	Click the lightning bolt to execute the script.
 
 The script 'resets' the database state in 3 steps:
-•	Drops the database and recreates it.
-•	Inserts a demo customer and cart, and all other data.
-•	Creates a user `ecommerceapp` and grants permissions as needed.
-•	Tip: Always reset the database after testing to ensure a clean slate.
+•	Drops the database and recreates it.<br>
+•	Inserts a demo customer and cart, and all other data.<br>
+•	Creates a user `ecommerceapp` and grants permissions as needed.<br>
+•	Tip: Always reset the database after testing to ensure a clean slate.<br>
 
 Instructions on how to start the front-end:
 1.	Save the folder “D288 Front End” on your local machine.
