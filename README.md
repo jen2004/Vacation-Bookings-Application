@@ -41,7 +41,7 @@ Here are some images of the vacation bookings application:
 4.	Go to File > Open SQL Script.  Then, select “create_and_populate_db.sq” and click “Open”.
 5.	Click the lightning bolt to execute the script.
 
-The script 'resets' the database state in 3 steps:
+The script 'resets' the database state in 3 steps:<br>
 •	Drops the database and recreates it.<br>
 •	Inserts a demo customer and cart, and all other data.<br>
 •	Creates a user `ecommerceapp` and grants permissions as needed.<br>
