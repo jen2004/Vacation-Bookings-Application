@@ -7,7 +7,7 @@ During this project, I :
 
 •	Created a functional e-commerce backend using Spring Boot, following detailed specifications.<br>
 •	Implemented features including a customer shopping cart, a checkout service, and an order tracking system.<br>
-•	Utilized the MVC architecture and develop RESTful APIs, integrating data validation and sample customer data.<br>
+•	Utilized the MVC architecture to develop RESTful APIs, integrating data validation and sample customer data.<br>
 
 For the complete project requirements, please refer to the “Rubric.pdf” file. Additional project details can be found in these files: ERD.pdf and UML.jpg.
 
